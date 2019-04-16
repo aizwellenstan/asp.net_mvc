@@ -1,0 +1,3 @@
+F:\coding\C#\ASP.NET\MVC\MVC\obj\Debug\netcoreapp2.1\MVC.csproj.CoreCompileInputs.cache
+F:\coding\C#\ASP.NET\MVC\MVC\obj\Debug\netcoreapp2.1\MVC.AssemblyInfoInputs.cache
+F:\coding\C#\ASP.NET\MVC\MVC\obj\Debug\netcoreapp2.1\MVC.AssemblyInfo.cs
